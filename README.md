@@ -1,3 +1,14 @@
+---
+title: ERP Anomaly Detector
+emoji: 🏭
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: 1.32.0
+app_file: app.py
+pinned: false
+---
+
 # ERP Anomaly Detector — Supply Chain Analytics Platform
 
 > **AI-powered anomaly detection on a SAP MM-structured ERP database.**  
