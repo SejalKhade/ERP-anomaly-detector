@@ -1,0 +1,4 @@
+erp_data.duckdb
+__pycache__/
+*.pyc
+.env
